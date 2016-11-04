@@ -1,0 +1,17 @@
+{
+  "name": "stu_zjblog",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zj513 <2389862901@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
